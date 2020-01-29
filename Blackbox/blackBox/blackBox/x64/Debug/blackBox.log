@@ -1,0 +1,227 @@
+﻿  TrafficL.cpp
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(426): warning C4244: '인수': '_Tp'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(444): warning C4244: '인수': '_Tp'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(458): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(459): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(460): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(461): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(506): error C2065: 'CV_AA': 선언되지 않은 식별자입니다.
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(510): error C2065: 'CV_AA': 선언되지 않은 식별자입니다.
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(511): error C2065: 'CV_AA': 선언되지 않은 식별자입니다.
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(514): error C2065: 'CV_AA': 선언되지 않은 식별자입니다.
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(615): error C2086: 'std::vector<int,std::allocator<_Ty>> car_pos_x': 재정의
+          with
+          [
+              _Ty=int
+          ]
+  c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(603): note: 'car_pos_x' 선언을 참조하십시오.
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(615): error C2086: 'std::vector<int,std::allocator<_Ty>> car_pos_y': 재정의
+          with
+          [
+              _Ty=int
+          ]
+  c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(603): note: 'car_pos_y' 선언을 참조하십시오.
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(618): warning C4244: '인수': 'double'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(619): warning C4244: '인수': 'double'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(620): warning C4244: '인수': 'double'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(621): warning C4244: '인수': 'double'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(622): warning C4244: '인수': 'double'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(623): warning C4244: '인수': '_Ty'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(624): warning C4244: '인수': '_Ty'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(1027): warning C4244: '인수': '_Ty'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(1028): warning C4244: '인수': '_Ty'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(1035): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(1038): warning C4244: '인수': '_Ty'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(1040): warning C4244: '인수': '_Ty'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(1042): warning C4244: '인수': '_Ty'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(1050): warning C4244: '인수': '_Ty'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(1051): warning C4244: '인수': '_Ty'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(1055): warning C4244: '인수': '_Ty'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(1083): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(1089): warning C4244: '인수': '_Ty'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(1093): warning C4244: '인수': '_Ty'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(1098): warning C4244: '인수': '_Ty'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(1103): warning C4244: '인수': '_Ty'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(1112): warning C4244: '인수': '_Ty'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(1116): warning C4244: '인수': '_Ty'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(1120): warning C4244: '인수': '_Ty'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(1215): error C2440: '<function-style-cast>': 'initializer list'에서 'FOURCC'(으)로 변환할 수 없습니다.
+  c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(1215): note: 이니셜라이저에 요소가 너무 많습니다.
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(1215): error C2664: 'cv::VideoWriter::VideoWriter(const cv::VideoWriter &)': 인수 3을(를) 'cv::Size'에서 'double'(으)로 변환할 수 없습니다.
+  c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(1215): note: 이 변환을 수행할 수 있는 사용 가능한 사용자 정의 변환 연산자가 없거나 연산자를 호출할 수 없습니다.
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(1234): error C2440: '<function-style-cast>': 'initializer list'에서 'FOURCC'(으)로 변환할 수 없습니다.
+  c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(1234): note: 이니셜라이저에 요소가 너무 많습니다.
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(1234): error C2664: 'cv::VideoWriter::VideoWriter(const cv::VideoWriter &)': 인수 3을(를) 'cv::Size'에서 'double'(으)로 변환할 수 없습니다.
+  c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(1234): note: 이 변환을 수행할 수 있는 사용 가능한 사용자 정의 변환 연산자가 없거나 연산자를 호출할 수 없습니다.
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(1251): error C2440: '<function-style-cast>': 'initializer list'에서 'FOURCC'(으)로 변환할 수 없습니다.
+  c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(1251): note: 이니셜라이저에 요소가 너무 많습니다.
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(1251): error C2664: 'cv::VideoWriter::VideoWriter(const cv::VideoWriter &)': 인수 3을(를) 'cv::Size'에서 'double'(으)로 변환할 수 없습니다.
+  c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(1251): note: 이 변환을 수행할 수 있는 사용 가능한 사용자 정의 변환 연산자가 없거나 연산자를 호출할 수 없습니다.
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(1268): error C2440: '<function-style-cast>': 'initializer list'에서 'FOURCC'(으)로 변환할 수 없습니다.
+  c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(1268): note: 이니셜라이저에 요소가 너무 많습니다.
+c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(1268): error C2664: 'cv::VideoWriter::VideoWriter(const cv::VideoWriter &)': 인수 3을(를) 'cv::Size'에서 'double'(으)로 변환할 수 없습니다.
+  c:\users\곽자은\desktop\blackbox\blackbox\trafficl.cpp(1268): note: 이 변환을 수행할 수 있는 사용 가능한 사용자 정의 변환 연산자가 없거나 연산자를 호출할 수 없습니다.
